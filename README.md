@@ -7,6 +7,17 @@ inventory and facilitating seamless Point of Sale (POS) transactions.
 This app provides a user-friendly interface for shopkeepers to handle 
 tasks such as inventory management, product uploading, and efficient checkout processes.
 
+## Features
+
+- **Inventory Management:** Easily manage and track product inventory with a comprehensive set of tools.
+  
+- **Product Upload:** Quickly upload new products to keep your inventory up-to-date.
+
+- **Efficient Checkout:** Streamline the purchase experience for customers with a user-friendly POS system.
+
+- **Accurate Records:** Maintain accurate and organized records of product inventory and sales transactions.
+
+
 ## Contributors
 
 This project is created by students from Iqra University:
